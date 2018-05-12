@@ -1,0 +1,36 @@
+_repo: The-Secret-CacheAn-Adventure-and-Mystery-Story-for-Boys_43293
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wolf, W. H.
+    alias: Wolf, W. A.
+    gutenberg_agent_id: '42116'
+    url: http://www.gutenberg.org/2009/agents/42116
+covers:
+- cover_type: archival
+  image_path: 43293-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brill, Ethel C. (Ethel Claire)
+    aliases:
+    - Brill, Ethel Claire
+    - Brill, E. C. (Ethel Claire)
+    birthdate: 1877
+    gutenberg_agent_id: '42115'
+    url: http://www.gutenberg.org/2009/agents/42115
+description: ''
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Superior, Lake -- Juvenile fiction'
+title: 'The Secret Cache: An Adventure and Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/43293
